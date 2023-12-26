@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to **Chase Up!**, an exciting game built on Pygame that challenges your skills in a thrilling chase. The game features an innovative enemy movement powered by the Djsitra algorithm.
+Welcome to **Chase Up!**, an exciting game built on Pygame that challenges your skills in a thrilling chase. The game features an innovative enemy movement powered by the Dijkstra algorithm.
 
 ## Features
 
@@ -24,6 +24,6 @@ We welcome contributions to enhance the **Chase Up!** game. If you have ideas fo
 ## Acknowledgments
 
 - Special thanks to the Pygame community for providing a robust framework for game development.
-- The Djsitra algorithm adds a unique challenge to the enemy movement, enhancing the gameplay experience.
+- The Dijkstra algorithm adds a unique challenge to the enemy movement, enhancing the gameplay experience.
 
 Enjoy the chase in **Chase Up!**, and may your fuel never run out!
